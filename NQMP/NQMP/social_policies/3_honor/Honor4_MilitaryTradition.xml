@@ -60,5 +60,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Military Tradition[ENDCOLOR][NEWLINE]Gold cost of upgrading Military Units reduced by 25%. Courthouses provide +4 [ICON_FOOD] Food, +4 [ICON_PRODUCTION] Production, and +4 [ICON_GOLD] Gold and are built in half the usual time.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MILITARY_TRADITION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MILITARY_TRADITION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Tradition Miltaire[ENDCOLOR][NEWLINE]Le coût en or pour l'amélioration des unités militaires diminue de 25%. Les Tribunaux fournissent [ICON_FOOD] Nourriture +4, [ICON_PRODUCTION] Production +4 et [ICON_GOLD] Or +4 et sont construits 2 fois plus vite</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

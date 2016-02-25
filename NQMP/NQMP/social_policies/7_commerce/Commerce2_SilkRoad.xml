@@ -61,5 +61,15 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Silk Road[ENDCOLOR][NEWLINE]+3 [ICON_GOLD] Gold from all your foreign and internal trade routes. +1 [ICON_CULTURE] Culture from Harbors and Caravansaries.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_CARAVANS" />
+		<Row Tag="TXT_KEY_POLICY_CARAVANS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Route de la soie</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_POLICY_CARAVANS_HELP" />
+		<Row Tag="TXT_KEY_POLICY_CARAVANS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Route de la soie[ENDCOLOR][NEWLINE][ICON_GOLD] Or +3 pour toutes les routes commerciales internationales et internes. [ICON_CULTURE] Culture +1 de chaque port et caransérail.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

@@ -57,5 +57,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Each source of [ICON_RES_GOLD] Gold, [ICON_RES_SILVER] Silver, and [ICON_RES_COPPER] Copper worked by this City produces +2 [ICON_GOLD] Gold.[NEWLINE][NEWLINE]City must have at least one of these resources mined nearby.</Text>
 		</Row>
 	</Language_RU_RU>
-
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_MINT_STRATEGY" />
+		<Row Tag="TXT_KEY_BUILDING_MINT_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les sources d'or, d'argentet de cuivre exploitées par la ville donnent [ICON_GOLD] Or +2. La ville doit exploiter au moins l'une de ces trois ressources.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_BUILDING_MINT_HELP" />
+		<Row Tag="TXT_KEY_BUILDING_MINT_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les sources d'[ICON_RES_GOLD] Or, d'[ICON_RES_SILVER] Argent, et de [ICON_RES_COPPER] Cuivre exploitées par la ville donnent [ICON_GOLD] Or +2.[NEWLINE][NEWLINE]La ville doit exploiter au moins l'une de ces trois ressources.</Text>
+		</Row>
+	</Language_FR_FR>
 </GameData>

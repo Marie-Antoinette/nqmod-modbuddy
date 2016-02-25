@@ -51,5 +51,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Mercantilism[ENDCOLOR][NEWLINE]Purchasing items in Cities requires 20% less [ICON_GOLD] Gold. +2 [ICON_RESEARCH] Science from every Mint, Market, Bank, and Stock Exchange.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MERCANTILISM_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MERCANTILISM_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Mercantilisme[ENDCOLOR][NEWLINE]L'achat d'éléments dans les villes nécessite 20% d'[ICON_GOLD]or en moins. [ICON_RESEARCH] Science +2 pour chaque Hotel de la monnaie, Banque, Marché et Bourse.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

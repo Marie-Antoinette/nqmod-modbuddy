@@ -65,6 +65,20 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Source: Wikipedia (https://en.wikipedia.org/wiki/Colonialism)[ENDCOLOR][NEWLINE][NEWLINE]Colonialism is the establishment, exploitation, maintenance, acquisition, and expansion of colony in one territory by a political power from another territory. It is a set of unequal relationships between the colonial power and the colony and often between the colonists and the indigenous population.[NEWLINE][NEWLINE]The European colonial period was the era from the 16th century to the mid-20th century when several European powers established colonies in Asia, Africa, and the Americas. At first the countries followed mercantilist policies designed to strengthen the home economy at the expense of rivals, so the colonies were usually allowed to trade only with the mother country. By the mid-19th century, however, the powerful British Empire gave up mercantilism and trade restrictions and introduced the principle of free trade, with few restrictions or tariffs.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MERCHANT_NAVY" />
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Colonialisme</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_NAVY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Colonialisme[ENDCOLOR][NEWLINE]Les villes sont fondées avec un ouvrier, 6 cases supplémentaires,  +3 [ICON_CITIZEN]citoyens et une Maison du Governeur qui fournit [ICON_HAPPINESS_1] Bonheur +3.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_POLICY_MERCHANTNAVY_TEXT" />
+		<Row Tag="TXT_KEY_POLICY_MERCHANTNAVY_TEXT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Source: Wikipedia (https://en.wikipedia.org/wiki/Colonialism)[ENDCOLOR][NEWLINE][NEWLINE]Colonialism is the establishment, exploitation, maintenance, acquisition, and expansion of colony in one territory by a political power from another territory. It is a set of unequal relationships between the colonial power and the colony and often between the colonists and the indigenous population.[NEWLINE][NEWLINE]The European colonial period was the era from the 16th century to the mid-20th century when several European powers established colonies in Asia, Africa, and the Americas. At first the countries followed mercantilist policies designed to strengthen the home economy at the expense of rivals, so the colonies were usually allowed to trade only with the mother country. By the mid-19th century, however, the powerful British Empire gave up mercantilism and trade restrictions and introduced the principle of free trade, with few restrictions or tariffs.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Remove old bonuses -->
@@ -160,5 +174,16 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Founding a new city when you have adopted Colonialism will give that city an additional 3 [ICON_CITIZEN] Population and 3 [ICON_HAPPINESS_1] Happiness as well as a Free Worker. The city will also claim 6 additional nearby tiles.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_GOVERNORS_MANSION_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Maison du Gouverneur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOVERNORS_MANSION_PEDIA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]La Maison du Gouverneur est automatiquement construite dans chaque nouvelle ville fondée après avoir adopter le Colonialisme.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GOVERNORS_MANSION_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les villes sont fondées avec un ouvrier, 6 cases supplémentaires, +3 [ICON_CITIZEN]citoyens.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

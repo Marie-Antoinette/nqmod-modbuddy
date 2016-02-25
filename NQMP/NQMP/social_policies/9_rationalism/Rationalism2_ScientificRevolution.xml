@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Scientific Revolution[ENDCOLOR][NEWLINE]Grants a free Technology.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Révolution Scientifique[ENDCOLOR][NEWLINE]Une Technologie gratuite.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

@@ -100,5 +100,23 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]The Conquistador, which is only available by opening the Exploration social policy tree, is a multi-purpose unit that serves as an exceptional scout on land with extra visibility and the ability to found new cities. In the water, the Conquistador has the defensive embarkation promotion that allows it to defend itself against naval units.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT" />
+		<Row Tag="TXT_KEY_NO_ACTION_SETTLER_SIZE_LIMIT">
+			<Text>[NEWLINE][COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Unités pouvant créer des villes ne peuvent être formées que dans des villes ayant au moins {1_Num} [ICON_CITIZEN] Citoyens.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_MISSION_BUILD_CITY_HELP" />
+		<Row Tag="TXT_KEY_MISSION_BUILD_CITY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]En créant une ville l'unité disparaît.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_HELP" />
+		<Row Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Unité de l'Ere Medievale spécialisée dans l'exploration et la colonisation de nouvelles terres. Débloquée en adoptant Exploration.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_STRATEGY" />
+		<Row Tag="TXT_KEY_CIV5_SPAIN_CONQUISTADOR_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Conquistador, seulement disponible en adoptant la doctrine Exploration, est une unité multi-fonction, elle peut servir à explorer de nouvelles terres grâce à sa grande puissance de visibilité et est également capable de fonder des villes. Le Conquistador à la promotion Défense de l'embarquation, la puissance défensive des unités embarquées est doublée.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

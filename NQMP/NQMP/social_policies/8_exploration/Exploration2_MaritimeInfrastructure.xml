@@ -55,4 +55,5 @@
 			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Infrastructure Maritime[ENDCOLOR][NEWLINE][ICON_PRODUCTION] Production +3 pour toutes les villes côtières. +50% pour la [ICON_PRODUCTION] Production  des Phares, Ports et Chantiers naval.</Text>
 		</Row>
 	</Language_FR_FR>
+
 </GameData>

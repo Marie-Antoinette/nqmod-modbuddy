@@ -35,5 +35,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Representation[ENDCOLOR][NEWLINE]Each city you found will provide +1 [ICON_GOLD] Gold and increase the [ICON_CULTURE] Culture cost of policies by 33% less than normal.  Also starts a [ICON_GOLDEN_AGE] Golden Age.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_REPRESENTATION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_REPRESENTATION_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Représentation[ENDCOLOR][NEWLINE]Pour chaque ville fondée, le coût en [ICON_CULTURE]culture des doctrines augmentera 33% moins vite. Déclenche également un [ICON_GOLDEN_AGE] âge d'or.[NEWLINE][COLOR_WARNING_TEXT](NQ)[ENDCOLOR]Chaque ville fondée fournit [ICON_GOLD]+1 Or</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

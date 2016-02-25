@@ -55,7 +55,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Fine Arts[ENDCOLOR][NEWLINE]Provides a free Scriptorium, Gallery, and Conservatory in your first 4 cities. Amphitheaters, Opera Houses, Museums, and Broadcast Towers increase city [ICON_TOURISM] Tourism output by 25%.</Text>
 		</Row>
 	</Language_RU_RU>
-
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_FINE_ARTS_HELP" />
+		<Row Tag="TXT_KEY_POLICY_FINE_ARTS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Beaux Arts[ENDCOLOR][NEWLINE]Fournit un Scriptorium, une Gallerie d'art, et un Conservatoire de musique dans vos 4 premières villes. Augmentation dans les villes de [ICON_TOURISM] Tourisme +25% pour chaque Amphitheatre, Opera, Musée, et Tour de radiodiffusion.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Fine Arts: Scriptorium -->
 	<BuildingClasses>
@@ -123,6 +128,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Civilizations that adopt Fine Arts will receive a Scriptorium in their first 4 cities, which provides 1 [ICON_CULTURE] Culture as well as a Writer Specialist Slot.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_SCRIPTORIUM_DESC">
+			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Scriptorium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SCRIPTORIUM_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Civilisations qui adoptent les Beaux arts recevront un Scriptorium gratuit dans les 4 premières villes, le Scriptorium fournit [ICON_CULTURE] Culture +1 et un emplacement pour un Ecrivain Illustre.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Fine Arts: Gallery -->
@@ -185,6 +198,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Civilizations that adopt Fine Arts will receive a Gallery in their first 4 cities, which provides 1 [ICON_HAPPINESS_1] Happiness as well as an Artist Specialist Slot.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_GALLERY_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Gallerie d'Art</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GALLERY_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Civilisations qui adoptent les Beaux Arts recevront une Gallerie d'Art dans les 4 premières villes. La Gallerie d'Art fournit [ICON_HAPPINESS_1] Bonheur +1 et un emplacement pour un Artiste Illustre.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Fine Arts: Conservatory -->
@@ -248,5 +269,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Civilizations that adopt Fine Arts will receive a Conservatory in their first 4 cities, which provides 1 [ICON_TOURISM] Tourism as well as a Musician Specialist Slot.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_CONSERVATORY_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Conservatoire de musique</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CONSERVATORY_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Civilisations qui adoptent les Beaux Arts recevront un Conservatoire de musique dans les 4 premières villes. Le Conservatoire de musique fournit [ICON_TOURISM] Tourisme + 1vet un emplacement pour un Musicien Illustre.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

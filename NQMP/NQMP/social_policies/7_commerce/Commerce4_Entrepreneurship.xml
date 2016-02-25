@@ -33,6 +33,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Entrepreneurship[ENDCOLOR][NEWLINE]Maintenance paid on Roads and Railroads reduced by 50%. Maintenance paid on Buildings reduced by 25%. +2 [ICON_INTERNATIONAL_TRADE] Trade Routes.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP" />
+		<Row Tag="TXT_KEY_POLICY_ENTREPRENEURSHIP_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Entreprennariat[ENDCOLOR][NEWLINE]Coût de maintenance des routes et chemins de fer -50%. Coût de maintenance des bâtiments réduit de 25%. [ICON_INTERNATIONAL_TRADE] Routes commerciales +2.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Grand Bazaar is gifted in Capital when Entrepreneurship is selected. This is all done in the Lua file. -->
@@ -93,5 +99,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]The Grand Bazaar is your reward when you unlock Entrepreneurship in the Commerce Tree. It grants you 2 additional [ICON_INTERNATIONAL_TRADE] Trade Route slots.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_BAZAAR">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Grand Bazar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_BAZAAR_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Le Grand Bazar est votre gratification lorsque vous adoptez Entreprenariat. Il fournit 2 [ICON_INTERNATIONAL_TRADE] Routes commerciales additionnelles.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

@@ -27,6 +27,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Piety[ENDCOLOR] increases the [ICON_PEACE] Faith of empires.[NEWLINE][NEWLINE]Adopting Piety provides you with +1 [ICON_CULTURE] Culture and +1 [ICON_PEACE] Faith in the [ICON_CAPITAL] Capital and allows you to build Shrines and Temples in half the usual time. Unlocks building Stonehenge.[NEWLINE][NEWLINE]Adopting all Policies in the Piety tree causes a Great Prophet to appear and provides +4 [ICON_PRODUCTION] from the Grand Temple. Holy Sites provide +1 [ICON_FOOD] Food and +3 [ICON_CULTURE] Culture.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_BRANCH_PIETY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Piété[ENDCOLOR] La piété augmente [ICON_PEACE]la foi d'un empire. [NEWLINE][NEWLINE]Adopter la Piété fournit [ICON_CULTURE] Culture +1 et [ICON_PEACE] Foi +1, dans la [ICON_CAPITAL] Capitale les Autels et les Temples sont construits deux fois plus vite. Débloque Stonehenge.[NEWLINE][NEWLINE]L'adoption de toutes les doctrines de la piété entraîne l'apparition d'un prophète illustre et le Grand Temple génère [ICON_PRODUCTION] production +4. Les lieux saints génèrent [ICON_FOOD] Nourriture +1 et [ICON_CULTURE] Culture +3.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- PIETY OPENER -->
@@ -109,6 +115,18 @@
 		</Row>
 		-->
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_HELP" />
+		<Row Tag="TXT_KEY_WONDER_MOSQUE_OF_DJENNE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Missionaires apparus dans la ville peuvent propager la religion 3 fois. Fournit une mosquée dans la ville de construction.</Text>
+		</Row>
+		<!-- This is now updated in /wonders_world/StonehengeChanges.xml
+		<Delete Tag="TXT_KEY_WONDER_STONEHENGE_HELP" />
+		<Row Tag="TXT_KEY_WONDER_STONEHENGE_HELP">
+			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Piety.</Text>
+		</Row>
+		-->
+	</Language_FR_FR>
 
 
 	<!-- PIETY FINISHER -->

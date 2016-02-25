@@ -33,6 +33,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Consulates[ENDCOLOR][NEWLINE]Gain 1 additional Delegate in the World Congress, and 1 additional Delegate for each Era you advance past the Renaissance.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_CONSULATES_HELP" />
+		<Row Tag="TXT_KEY_POLICY_CONSULATES_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Consulats[ENDCOLOR][NEWLINE]1 délégué supplémentaire au Congrés, et 1 délégué supplémentaire pour chaque Ere après la Renaissance.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 	<!-- Consulates: Renaissance Consulate -->
 	<BuildingClasses>
@@ -91,6 +98,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Grants you 1 additional Delegate in the World Congress.[NEWLINE][NEWLINE]This building appears for free when you choose the Consulates Social Policy in the Patronage tree.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_RENAISSANCE_CONSULATE_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Consulat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RENAISSANCE_CONSULATE_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]1 délégué supplémentaire au Congrés.[NEWLINE][NEWLINE]Ce bâtiment apparaît gratuitement quand la doctrine Consulat de Mécennat est selectionnée.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Consulates: Industrial Consulate -->
 	<BuildingClasses>
@@ -149,6 +164,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Grants you 1 additional Delegate in the World Congress.[NEWLINE][NEWLINE]This building appears for free when you choose the Consulates Social Policy in the Patronage tree and you have advanced to the Industrial Era.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_INDUSTRIAL_CONSULATE_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Consulat 1er Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INDUSTRIAL_CONSULATE_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]]1 délégué supplémentaire au Congrés.[NEWLINE][NEWLINE]Ce bâtiment apparaît gratuitement quand la doctrine Consulat de Mécennat est selectionnée et que l'empire a atteint l'Ere Industrielle.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Consulates: Modern Consulate -->
 	<BuildingClasses>
@@ -207,6 +230,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Grants you 1 additional Delegate in the World Congress.[NEWLINE][NEWLINE]This building appears for free when you choose the Consulates Social Policy in the Patronage tree and you have advanced to the Modern Era.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_MODERN_CONSULATE_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Consulat 2nd Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MODERN_CONSULATE_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]1 délégué supplémentaire au Congrés.[NEWLINE][NEWLINE]Ce bâtiment apparaît gratuitement quand la doctrine Consulat de Mécennat est selectionnée et que l'empire a atteint l'Ere Moderne.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Consulates: Atomic Consulate -->
 	<BuildingClasses>
@@ -265,6 +296,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Grants you 1 additional Delegate in the World Congress.[NEWLINE][NEWLINE]This building appears for free when you choose the Consulates Social Policy in the Patronage tree and you have advanced to the Atomic Era.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_ATOMIC_CONSULATE_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Consulat 3eme Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ATOMIC_CONSULATE_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]1 délégué supplémentaire au Congrés.[NEWLINE][NEWLINE]Ce bâtiment apparaît gratuitement quand la doctrine Consulat de Mécennat est selectionnée et que l'empire a atteint l'Ere Atomique.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Consulates: Information Consulate -->
 	<BuildingClasses>
@@ -323,5 +362,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Grants you 1 additional Delegate in the World Congress.[NEWLINE][NEWLINE]This building appears for free when you choose the Consulates Social Policy in the Patronage tree and you have advanced to the Information Era.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_INFORMATION_CONSULATE_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Consulat 4eme Bureau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_INFORMATION_CONSULATE_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]1 délégué supplémentaire au Congrés.[NEWLINE][NEWLINE]Ce bâtiment apparaît gratuitement quand la doctrine Consulat de Mécennat est selectionnée et que l'empire a atteint l'Ere de l'Information.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 </GameData>

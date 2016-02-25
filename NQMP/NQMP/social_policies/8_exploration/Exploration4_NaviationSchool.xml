@@ -27,6 +27,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Navigation School[ENDCOLOR][NEWLINE]+3 [ICON_RESEARCH] Science in all coastal cities. +10% [ICON_STRENGTH] Combat Strength for Naval combat units.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP" />
+		<Row Tag="TXT_KEY_POLICY_NAVIGATION_SCHOOL_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Ecole de Navigation[ENDCOLOR][NEWLINE][ICON_RESEARCH] Science +3 pour les villes côtières. Puissance de [ICON_STRENGTH] Combat +10% pour les unités de combat navales.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<Policies>
 		<Update>
@@ -117,5 +123,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+10% [ICON_STRENGTH] Combat Strength</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_PROMOTION_NAVIGATION_SCHOOL_BOOST">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Ecolde de Navigation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NAVIGATION_SCHOOL_BOOST_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR] Puissance de [ICON_STRENGTH] Combat +10%.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

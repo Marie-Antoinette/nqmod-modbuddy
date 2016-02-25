@@ -72,5 +72,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+10% [ICON_STRENGTH] Combat Strength.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_DISCIPLINE_HELP" />
+		<Row Tag="TXT_KEY_POLICY_DISCIPLINE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Discipline[ENDCOLOR][NEWLINE]+10% [ICON_STRENGTH] de puissance de combat pour les unités terrestres, +50% EXP gagnée en combat pour les unités militaires.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP" />
+		<Row Tag="TXT_KEY_PROMOTION_DISCIPLINE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+10% [ICON_STRENGTH] de puissance de combat.</Text>
+	</Language_FR_FR>
 
 </GameData>

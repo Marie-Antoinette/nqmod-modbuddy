@@ -72,5 +72,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]{1_Num} {2_IconString} from [ICON_GREAT_WORK] Great Works</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_ARTISTIC_GENIUS_HELP" />
+		<Row Tag="TXT_KEY_POLICY_ARTISTIC_GENIUS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Génie Artistique[ENDCOLOR][NEWLINE]Un Artiste Illustre apparaît.  [ICON_RESEARCH] Science +1 pour chaque amphithéâtre, opéra, musée et tour de radiodiffusion. [ICON_RESEARCH] Science +3 par Chef-d'oeuvre.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_YIELD_FROM_GREAT_WORKS">
+			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]{1_Num} {2_IconString} from [ICON_GREAT_WORK] Great Works</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

@@ -43,5 +43,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Reformation[ENDCOLOR][NEWLINE]+2 [ICON_RESEARCH] Science from each Temple.[NEWLINE]+25% [ICON_RESEARCH] Science from the Grand Temple.[NEWLINE]If you founded a religion, gain a bonus Reformation belief.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_REFORMATION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_REFORMATION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Réforme[ENDCOLOR][NEWLINE][ICON_RESEARCH] Science +2 pour chaque Temple.[NEWLINE]Le Grand Temple fournit [ICON_RESEARCH] Science +25%.[NEWLINE]Obtention d'une croyance de Réforme supplémentaire pour toute religion fondée.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

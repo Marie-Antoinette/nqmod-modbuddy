@@ -41,5 +41,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Humanism[ENDCOLOR][NEWLINE]+17% [ICON_RESEARCH] Science from Universities.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_HUMANISM_HELP" />
+		<Row Tag="TXT_KEY_POLICY_HUMANISM_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Humanisme[ENDCOLOR][NEWLINE][ICON_RESEARCH] Science +17% des Universitées.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

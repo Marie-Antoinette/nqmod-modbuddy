@@ -47,5 +47,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Theocracy[ENDCOLOR][NEWLINE]+1 [ICON_GOLD] Gold from each Shrine and Temple.[NEWLINE]Holy Sites provide +3 [ICON_GOLD] Gold.[NEWLINE]The Grand Temple boosts [ICON_GOLD] Gold output in its city by 50%.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_THEOCRACY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_THEOCRACY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Theocracie[ENDCOLOR][NEWLINE]Chaque Autel et Temple fournissent [ICON_GOLD] Or +1 .[NEWLINE]Les lieux saint rapportent [ICON_GOLD] Or +3.[NEWLINE]Le Grand Temple augmente la production d'[ICON_GOLD] Or de 50% d'une ville.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

@@ -58,5 +58,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Cultural Centers[ENDCOLOR][NEWLINE]Amphitheaters, Opera Houses, Museums and Broadcast Towers provide +1 [ICON_CULTURE] Culture and are built in half the usual time.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP" />
+		<Row Tag="TXT_KEY_POLICY_CULTURAL_CENTERS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Centres Culturels[ENDCOLOR][NEWLINE][ICON_CULTURE] Culture +1 des Amphithéâtres, Opéras, Musées et Tours de Radiodiffusion, ces bâtiments seront construits deux fois plus vite.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

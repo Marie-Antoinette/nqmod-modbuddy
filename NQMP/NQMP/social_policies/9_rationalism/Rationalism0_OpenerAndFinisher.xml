@@ -27,6 +27,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Rationalism[ENDCOLOR] improves the ability to use and generate [ICON_RESEARCH] Science.[NEWLINE][NEWLINE]Adopting Rationalism allows you to earn Great Scientists 25% faster. Unlocks building the Porcelain Tower.[NEWLINE][NEWLINE]Adopting all Policies in the Rationalism tree will grant +10% [ICON_RESEARCH] Science while the empire is [ICON_HAPPINESS_1] Happy. It also allows the purchase of Great Scientists with [ICON_PEACE] Faith starting in the Industrial Era.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP" />
+		<Row Tag="TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Rationalisme[ENDCOLOR] améliore votre aptitude à utiliser et à générer de la [ICON_RESEARCH] science.[NEWLINE][NEWLINE]Formation des Savants Illustres 25% plus rapide. Débloque Tour de Porcelaine.[NEWLINE][NEWLINE]En Adoptant toutes les doctrines vous recevrez +10% de [ICON_RESEARCH] Science tant que votre Empire est [ICON_HAPPINESS_1]heureux. Permet d'acheter des Savants Illustres avec de la [ICON_PEACE] Foi à partir de l'Ere Industrielle.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- RATIONALISM OPENER -->

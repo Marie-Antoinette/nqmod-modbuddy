@@ -30,6 +30,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Exploration[ENDCOLOR] enhances your abilties to spread your empire, especially over the seas.[NEWLINE][NEWLINE]Adopting Exploration gives +1 [ICON_MOVES] Movement for Naval units and +1 Sight for Naval combat units. It also allows you to train Conquistadors and unlocks building the Louvre.[NEWLINE][NEWLINE]Adopting all policies provides +2 [ICON_HAPPINESS_1] Happiness from each Luxury resource and causes a Great Admiral to appear. Great Admirals are earned twice as fast and may be purchased with [ICON_PEACE] Faith starting in the Industrial Era.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Exploration[ENDCOLOR] améliore votre aptitude à étendre votre empire par-delà les mers.[NEWLINE][NEWLINE]Adopter l'exploration octroie 1 point de [ICON_MOVES]mouvement supplémentaire aux unités navales et 1 point de champ de vision aux unités militaires navales, débloque le Louvre. Permet de former des Conquistadors.[NEWLINE][NEWLINE]En adoptant toutes les doctrines vous recevrez [ICON_HAPPINESS_1] Bonheur +2 de chaque ressource de luxe et un Amiral Illustre apparaît. La vitesse de formation des Amiraux Illustres est doublée, ils peuvent être achetés avec de la [ICON_PEACE] Foi à partir de l'Ere Industrielle.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Unlock Conquistadors -->

@@ -27,6 +27,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Aesthetics[ENDCOLOR] improves the civilization's ability to generate [ICON_CULTURE] Culture.[NEWLINE][NEWLINE]Adopting Aesthetics allows you to earn Great Writers, Artists, and Musicians 25% faster. Unlocks building Uffizi.[NEWLINE][NEWLINE]Adopting all policies doubles both the speed at which Archaeologists are trained and the theming bonus you receive from Museums and Wonders. It also reveals Hidden Antiquity Sites and and allows the purchase of Great Writers, Artists, or Musicians with [ICON_PEACE] Faith starting in the Industrial Era. Grants 1 free Social Policy upon completing the tree.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR><Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP" />
+		<Row Tag="TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Esthétique[ENDCOLOR] L'esthétique améliore l'efficacité avec laquelle la civilisation génère de la [ICON_CULTURE] culture.[NEWLINE][NEWLINE]Adopter l'esthétique accélère la vitesse de génération d'artistes, de musiciens et d'écrivains illustres de 25%, et débloque la Galerie des Offices.[NEWLINE][NEWLINE]En adoptant toutes les doctrines vous doublez la vitesse de création des Archéologistes et le bonus thématique des musées et des merveilles. Révèle les sites archéologiques, permet d'acheter des artistes, musiciens et écrivains illustres avec de la [ICON_PEACE] foi à partir de l'ère industrielle et donne 1 Doctrine gratuite.</Text>
+		</Row>
+	</Language_FR_FR></Language_FR_FR>
 
 
 	<!-- Aesthetics Opener -->
@@ -150,6 +156,20 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Archaeologist Units</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_MONUMENT_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Chef-d'oeuvre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_MONUMENT_PEDIA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Le Chef-d'oeuvre apparaît lorsque toutes les doctrines sont adoptées, il fournit 1 doctrine gratuite.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GRAND_MONUMENT_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Le Chef-d'oeuvre apparaît lorsque toutes les doctrines sont adoptées, il fournit 1 doctrine gratuite.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNITCOMBAT_ARCHAEOLOGIST">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Archéologistes</Text>
+		</Row>
+	</Language_FR_FR>
 	
 	<!-- Fix tooltips for Hidden Antiquity Sites that reference Exploration tree. -->
 	<Language_en_US>
@@ -192,5 +212,15 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To take advantage of an Antiquity Site, you must first build an Archaeologist. Archaeologists are units that can only be constructed in a city with a University. Once built, send him to any Antiquity Site (Open Borders are required for other civilizations), and once they arrive, select the "Construct Archaeological Dig" option on the Unit panel. After a set number of turns, you will have the option to either extract an Artifact, or create a Landmark.[NEWLINE][NEWLINE]If you complete the Aesthetics Social Policy tree, you will also reveal Hidden Antiquity Sites. These special Antiquity sites not only yield up Artifacts like regular Antiquity Sites, but there is also a chance you will find a special Great Work of Writing Artifact, like the Rosetta Stone. You can use this like a Great Work of Writing, or you can choose to start a Cultural Renaissance, which will grant you a large amount of Culture.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP" />
+		<Row Tag="TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Lorsque vous aménagez un site antique caché en fouilles archéologiques, il peut alors produire un artefact à exposer dans un emplacement pour chef-d'oeuvre artistique, ou être transformé en monument. Les sites antiques cachés ne sont visibles que par les civilisations ayant découvert toutes les doctrines de la catégorie Exploration.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_CULTURE_ANTIQUITY_HEADING2_BODY" />
+		<Row Tag="TXT_KEY_CULTURE_ANTIQUITY_HEADING2_BODY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Pour exploiter un site antique, vous devez d'abord former un archéologue, une unité ne pouvant être créée que dans une ville disposant d'une université. Une fois votre archéologue prêt, envoyez-le sur un site antique. Si ce site se trouve en territoire étranger, vous devrez au préalable avoir signé un traité de libre passage. Une fois l'archéologue sur place, sélectionnez "Construire fouilles archéologiques" sur le panneau des unités. Après un certain nombre de tours, vous aurez la possibilité de déterrer un artefact ou de créer un monument.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

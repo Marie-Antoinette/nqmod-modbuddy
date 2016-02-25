@@ -34,5 +34,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Religious Tolerance[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness from each Temple and cities with a majority religion also get the Pantheon belief bonus of the second most popular religion.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_FREE_RELIGION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Tolérance religieuse[ENDCOLOR][NEWLINE] [ICON_HAPPINESS_1] Bonheur +1 pour chaque Temple. Les villes présentant une religion majoritaire obtiennent également un bonus de croyance du panthéon pour la deuxième religion la plus populaire.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 </GameData>

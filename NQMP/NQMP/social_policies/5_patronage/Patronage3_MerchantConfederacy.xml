@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Merchant Confederacy[ENDCOLOR][NEWLINE]+2 [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production, +2 [ICON_GOLD] Gold, and +1 [ICON_INFLUENCE] Influence per turn for trade routes with City-States.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MERCHANT_CONFEDERACY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Confédération Marchande[ENDCOLOR][NEWLINE][ICON_FOOD] Nourriture +2, [ICON_PRODUCTION] Production +2, [ICON_GOLD]Or +2 et[ICON_INFLUENCE] Influence +1 par tour pour les routes commerciales établies avec des cités-états.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

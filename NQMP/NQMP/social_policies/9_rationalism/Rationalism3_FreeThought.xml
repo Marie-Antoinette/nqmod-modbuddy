@@ -38,5 +38,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Free Thought[ENDCOLOR][NEWLINE]+1 [ICON_RESEARCH] Science from every Trading Post and +4 [ICON_RESEARCH] Science from every Customs House.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_FREE_THOUGHT_HELP" />
+		<Row Tag="TXT_KEY_POLICY_FREE_THOUGHT_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Liberté de Pensée[ENDCOLOR][NEWLINE][ICON_RESEARCH] Science +1 pour chaque comptoir commercial et [ICON_RESEARCH] Science +4 pour chaque bureau de douane.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

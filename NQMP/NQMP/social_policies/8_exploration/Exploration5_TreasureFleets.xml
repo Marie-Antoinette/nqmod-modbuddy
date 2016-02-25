@@ -33,6 +33,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Treasure Fleets[ENDCOLOR][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +1 [ICON_GOLD] Gold from Coast and Ocean tiles without sea resources.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_TREASURE_FLEETS_HELP" />
+		<Row Tag="TXT_KEY_POLICY_TREASURE_FLEETS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Flotte des Indes[ENDCOLOR][NEWLINE]+1 [ICON_FOOD]Nourriture, +1 [ICON_PRODUCTION]Production, et +1 [ICON_GOLD]Or des cases côtières et océan sans ressource.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Treasury building -->
 	<BuildingClasses>
@@ -138,5 +144,16 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides +1 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, and +1 [ICON_GOLD] Gold from all Coast and Ocean tiles without sea resources.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_TREASURE_FLEETS_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Entrepôt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TREASURE_FLEETS_PEDIA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]En Adoptant Flotte des Indes un Entrepôt est automatiquement construit dans chacunes des villes de l'Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TREASURE_FLEETS_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Fournit [ICON_FOOD] Nourriture +1, [ICON_PRODUCTION] Production +1 et [ICON_GOLD] Or +1 de chaque cases océaniques sans ressources maritimes.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

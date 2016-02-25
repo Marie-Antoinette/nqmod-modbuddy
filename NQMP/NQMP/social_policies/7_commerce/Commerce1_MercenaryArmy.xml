@@ -33,5 +33,11 @@
 			<Text>[COLOR_POSITIVE_TEXT]Mercenary Army[ENDCOLOR][NEWLINE]Allows the purchasing of Landsknechts at Civil Service and Foreign Legions at Replaceable Parts.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP" />
+		<Row Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Armée de Mercenaires[ENDCOLOR][NEWLINE]Permet de recruter des lansquenets avec technologie Service Civil et Légion étrangère avec technologie Pièces de Rechange.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

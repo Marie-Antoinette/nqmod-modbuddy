@@ -39,5 +39,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Meritocracy[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Happiness and +15% [ICON_GOLD] Gold income from [ICON_CONNECTED] City Connections. -5% [ICON_HAPPINESS_4] Unhappiness from [ICON_CITIZEN] Citizens in non-occupied Cities.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MERITOCRACY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MERITOCRACY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Meritocracie[ENDCOLOR][NEWLINE][ICON_HAPPINESS_1] +1 Bonheur et  [ICON_GOLD] Or +15%pour chaque [ICON_CONNECTED] connexion urbaine.  [ICON_HAPPINESS_4] mécontentement -5% grâce aux [ICON_CITIZEN] citoyens des villes non-occupées.</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 </GameData>

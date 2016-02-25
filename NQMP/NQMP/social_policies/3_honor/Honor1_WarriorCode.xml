@@ -44,5 +44,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Warrior Code[ENDCOLOR][NEWLINE]4 units are maintenance free, and receive 2 Warriors immediately. Gain [ICON_GOLD] Gold for each enemy unit killed.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>	
+		<Delete Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP" />
+		<Row Tag="TXT_KEY_POLICY_WARRIOR_CODE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Code du Guerrier[ENDCOLOR][NEWLINE]Coût d'entretien gratuit pour 4 unités, 2 guerriers apparaissent près de la Capitale. [ICON_GOLD] Or reçu pour chaque unité ennemie détruite.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

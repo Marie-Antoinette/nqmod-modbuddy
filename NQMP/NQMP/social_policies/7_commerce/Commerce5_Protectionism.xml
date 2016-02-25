@@ -69,5 +69,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Protectionism[ENDCOLOR][NEWLINE]+1 [ICON_FOOD] Food and +4 [ICON_GOLD] Gold from every Customs House. +4 [ICON_PRODUCTION] Production, +4 [ICON_CULTURE] Culture, and +4 [ICON_HAPPINESS_1] Happiness from the East India Trade Company.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_PROTECTIONISM_HELP" />
+		<Row Tag="TXT_KEY_POLICY_PROTECTIONISM_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Protectionisme[ENDCOLOR][NEWLINE] [ICON_FOOD] Nourriture +1 et [ICON_GOLD] or +4 pour chaque Bureau de douane. [ICON_PRODUCTION] Production +4, [ICON_CULTURE] Culture +4 et [ICON_HAPPINESS_1] Bonheur +4 de la Compagnie des Indes.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

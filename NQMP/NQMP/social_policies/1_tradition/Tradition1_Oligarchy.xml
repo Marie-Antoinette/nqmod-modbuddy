@@ -33,5 +33,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Oligarchy[ENDCOLOR][NEWLINE]Cities with a garrison gain +50% [ICON_RANGE_STRENGTH] Ranged Combat Strength. Provides free Walls in your first 4 cities.</Text>
 		</Row>
 	</Language_RU_RU>
+	 <Language_FR_FR>
+	 <Delete Tag="TXT_KEY_POLICY_OLIGARCHY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_OLIGARCHY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Oligarchie[ENDCOLOR][NEWLINE]La puissance de combat à distance [ICON_RANGE_STRENGTH] des villes équipées d'une garnison augmente de 100%. Remparts gratuits dans les 4 premères villes.</Text>
+		</Row>
+	 </Language_FR_FR>
+	
 
 </GameData>

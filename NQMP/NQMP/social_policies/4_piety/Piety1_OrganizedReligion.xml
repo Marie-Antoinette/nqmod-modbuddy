@@ -39,5 +39,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Organized Religion[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture from Shrines and Temples.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_ORGANIZED_RELIGION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Religion Organisée[ENDCOLOR][NEWLINE] Autels et Temples fournissent [ICON_PEACE]Foi +1 et [ICON_CULTURE] Culture +1  .</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

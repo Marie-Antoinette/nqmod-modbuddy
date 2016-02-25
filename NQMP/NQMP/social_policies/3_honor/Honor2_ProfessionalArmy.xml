@@ -94,5 +94,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Professional Army[ENDCOLOR][NEWLINE]Barracks, Armories, and Military Academies are built twice as fast, and they each provide +1 [ICON_PRODUCTION] Production, +1 [ICON_CULTURE] Culture, and +1 [ICON_GOLD] Gold.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_PROFESSIONAL_ARMY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Armée de Métier[ENDCOLOR][NEWLINE]La construction des casernes, dépôts d'armes et écoles militaires est 100% plus rapide, chacun de ces bâtiments fournit [ICON_PRODUCTION] Production +1, [ICON_CULTURE] Culture +1 et [ICON_GOLD] Or +1.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

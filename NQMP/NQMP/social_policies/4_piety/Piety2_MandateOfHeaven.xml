@@ -35,5 +35,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Mandate of Heaven[ENDCOLOR][NEWLINE]+1 [ICON_PEACE] Faith in the Capital. 20% discount on all purchases of religious units and buildings with [ICON_PEACE] Faith.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MANDATE_OF_HEAVEN_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Mandat du Ciel[ENDCOLOR][NEWLINE] [ICON_PEACE] Foi +1 dans la Capitale. Diminue de 20% le coût en [ICON_PEACE] foi des unités et bâtiments religieux.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

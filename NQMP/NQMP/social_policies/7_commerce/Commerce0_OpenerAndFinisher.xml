@@ -36,6 +36,12 @@
 			<Text>[COLOR_POSITIVE_TEXT]Commerce[ENDCOLOR] provides bonuses to empires focused on [ICON_GOLD] Gold.[NEWLINE][NEWLINE]Adopting Commerce allows you to earn Great Merchants 50% faster. Unlocks building Big Ben.[NEWLINE][NEWLINE]Adopting all Policies in the Commerce tree will grant you 2 free Great Merchants and double [ICON_GOLD] Gold from Great Merchant Trade Missions. It also provides +1 [ICON_GOLD] Gold from Trading Posts and allows the purchase of Great Merchants with [ICON_PEACE] Faith starting in the Industrial Era.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP" />
+		<Row Tag="TXT_KEY_POLICY_BRANCH_COMMERCE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Commerce[ENDCOLOR] octroie des bonus aux empires dont la production se focalise sur l'[ICON_GOLD] or.[NEWLINE][NEWLINE]Adopter le commerce augmente la formation de Marchands Illustres de +50%. Débloque Big Ben.[NEWLINE][NEWLINE]En adoptant toutes les doctrines 2 Marchands Illustres aparaissent, chaque mission commerciale rapporte deux fois plus d'[ICON_GOLD] Or. Fournit [ICON_GOLD] Or +1 des comptoirs commerciaux et permet l'achat de de Marchands Illustres avec la [ICON_PEACE] Foi à partir de l'Ere Industrielle.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Commerce Finisher -->

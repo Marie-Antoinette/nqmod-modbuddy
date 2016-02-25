@@ -49,5 +49,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Maritime Infrastructure[ENDCOLOR][NEWLINE]+3 [ICON_PRODUCTION] Production in all coastal Cities. +50% [ICON_PRODUCTION] Production towards Lighthouse, Harbor, and Seaport.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Infrastructure Maritime[ENDCOLOR][NEWLINE][ICON_PRODUCTION] Production +3 pour toutes les villes côtières. +50% pour la [ICON_PRODUCTION] Production  des Phares, Ports et Chantiers naval.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

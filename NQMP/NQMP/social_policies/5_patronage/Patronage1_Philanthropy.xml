@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Philanthropy[ENDCOLOR][NEWLINE][ICON_GOLD] Gold gifts to City-States produce 25% more [ICON_INFLUENCE] Influence. Resting point for [ICON_INFLUENCE] Influence with all City-States is increased by 20.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_PHILANTHROPY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_PHILANTHROPY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Philanthropie[ENDCOLOR][NEWLINE]Les dons en[ICON_GOLD] Or faits aux Cités-état poduisent 25% d'[ICON_INFLUENCE] Influence en plus. Seuil d'[ICON_INFLUENCE]influence +20 sur toutes les cités-états.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

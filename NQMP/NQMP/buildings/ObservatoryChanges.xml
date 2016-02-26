@@ -64,5 +64,15 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]The Observatory produces +1 [ICON_RESEARCH] Science on Tundra tiles and +6 [ICON_RESEARCH] Science on Mountain tiles.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_OBSERVATORY_STRATEGY" />
+		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]L'Observatoire produit [ICON_RESEARCH] Science +1 par case de Tundra [ICON_RESEARCH] Science +6 par case de Montagne.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_BUILDING_OBSERVATORY_HELP" />
+		<Row Tag="TXT_KEY_BUILDING_OBSERVATORY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]L'Observatoire produit [ICON_RESEARCH] Science +1 par case de Tundra [ICON_RESEARCH] Science +6 par case de Montagne.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

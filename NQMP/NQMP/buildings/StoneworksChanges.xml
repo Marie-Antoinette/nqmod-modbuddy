@@ -49,5 +49,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Stone Works can only be constructed in a city near an improved [ICON_RES_STONE] Stone or [ICON_RES_MARBLE] Marble resource. Stone Works increase a city's [ICON_PRODUCTION] production.</Text>
 		</Row>
 	</Language_RU_RU>
-
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP" />
+		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Chaque source de [ICON_RES_MARBLE] Marble et [ICON_RES_STONE] Stone exploitée par la ville produit [ICON_PRODUCTION] Production +1.[NEWLINE][NEWLINELa ville doit avoir aménagé au moins l'une de ces ressources avec une carrière.</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_BUILDING_STONE_WORKS_STRATEGY" />
+		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Pour construire l'Exploitation de pierres la ville doit avoir aménagé au moins l'une de ces ressources avec une carrière [ICON_RES_STONE] Pierre ou [ICON_RES_MARBLE] Marbre resource. L'exploitation de pierres augmente la [ICON_PRODUCTION] production de la ville.</Text>
+		</Row>
+	</Language_FR_FR>
 </GameData>

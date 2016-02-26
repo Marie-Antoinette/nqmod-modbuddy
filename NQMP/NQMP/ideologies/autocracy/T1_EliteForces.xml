@@ -33,6 +33,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Elite Forces[ENDCOLOR][NEWLINE]All Military Units have +10% [ICON_STRENGTH] increased Combat Strength and gain an extra 10 HP when healing.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_ELITE_FORCES_HELP" />
+		<Row Tag="TXT_KEY_POLICY_ELITE_FORCES_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Forces d'Elite[ENDCOLOR][NEWLINE]Toutes les unités militaires reçoivent +10% de [ICON_STRENGTH] puissance de combat et gagne +10PV en mode guerrison.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- new promotion -->
@@ -156,5 +162,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+10% [ICON_STRENGTH] Combat Strength and gains an extra 10 HP when healing.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_PROMOTION_ELITE_FORCES">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Forces d'Elite</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ELITE_FORCES_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+10% de [ICON_STRENGTH] puissance de combat et gagne +10PV en mode guerrison.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

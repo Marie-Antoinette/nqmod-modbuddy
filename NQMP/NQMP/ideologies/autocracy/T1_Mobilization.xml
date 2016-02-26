@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][NEWLINE][ICON_GOLD] Gold cost of purchasing units reduced by 25%.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_MOBILIZATION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_MOBILIZATION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][NEWLINE][ICON_GOLD]Le coût d'achat en Or des unités reduit de 25%.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

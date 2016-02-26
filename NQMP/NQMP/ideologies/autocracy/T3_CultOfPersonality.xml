@@ -34,6 +34,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Cult of Personality[ENDCOLOR][NEWLINE]Gain up to +100% Tourism [ICON_TOURISM] depending on your military strength (Soldiers) relative to other players.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_CULT_PERSONALITY_HELP" />
+		<Row Tag="TXT_KEY_POLICY_CULT_PERSONALITY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Culte de la Personalité[ENDCOLOR][NEWLINE][ICON_TOURISM]Tourisme +100%, selon votre rang de puissance militaire (Soldats).</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<Language_en_US>
@@ -60,6 +66,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+{1_Num}% Bonus for Cult of Personality[NEWLINE]</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_CO_CITY_TOURISM_COMMON_FOE_BONUS" />
+		<Row Tag="TXT_KEY_CO_CITY_TOURISM_COMMON_FOE_BONUS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+{1_Num}% Bonus pour le Culte de la Personalité[NEWLINE]</Text>
+		</Row>
+	</Language_FR_FR>
 
 	
 	<Language_en_US>
@@ -86,5 +98,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+{1_Num}% Bonus for Cult of Personality[NEWLINE]</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_CO_PLAYER_TOURISM_COMMON_FOE" />
+		<Row Tag="TXT_KEY_CO_PLAYER_TOURISM_COMMON_FOE">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+{1_Num}% Bonus pour le Culte de la  Personalité[NEWLINE]</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

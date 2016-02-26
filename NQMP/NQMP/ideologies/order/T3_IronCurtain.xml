@@ -32,5 +32,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Iron Curtain[ENDCOLOR][NEWLINE]Internal trade routes provide +10 more [ICON_FOOD] Food or [ICON_PRODUCTION] Production, and an additional +1 extra per era after Industrial.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_IRON_CURTAIN_HELP" />
+		<Row Tag="TXT_KEY_POLICY_IRON_CURTAIN_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Rideau de Fer[ENDCOLOR][NEWLINE]Les Routes commerciales internes fournissent +10 [ICON_FOOD] Nourriture ou [ICON_PRODUCTION] Production, augmente de +1 pour chaque Ere après l'Ere Industrielle.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

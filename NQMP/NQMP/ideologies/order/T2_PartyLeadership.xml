@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Party Leadership[ENDCOLOR][NEWLINE]+3 [ICON_FOOD] Food, +3 [ICON_PRODUCTION] Production, +3 [ICON_RESEARCH] Science, +3 [ICON_GOLD] Gold, and +3 [ICON_CULTURE] Culture per city.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP_HELP" />
+		<Row Tag="TXT_KEY_POLICY_PARTY_LEADERSHIP_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Autorité du Parti[ENDCOLOR][NEWLINE][ICON_FOOD] Nourriture +3, [ICON_PRODUCTION] Production +3, [ICON_RESEARCH] Science +3, [ICON_GOLD] Or +3 et [ICON_CULTURE] Culture +3 par ville.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

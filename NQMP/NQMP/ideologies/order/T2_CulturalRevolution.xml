@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Cultural Revolution[ENDCOLOR][NEWLINE]+50% Tourism [ICON_TOURISM] to civilizations that have less [ICON_HAPPINESS_1] Happiness. Also starts a [ICON_GOLDEN_AGE] Golden Age.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_CULTURAL_REVOLUTION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_CULTURAL_REVOLUTION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Revolution Culturelle[ENDCOLOR][NEWLINE]Tourisme +50% [ICON_TOURISM] pour les civilisations qui ont moins de [ICON_HAPPINESS_1] Bonheur. Démarre un [ICON_GOLDEN_AGE] Age d'Or.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

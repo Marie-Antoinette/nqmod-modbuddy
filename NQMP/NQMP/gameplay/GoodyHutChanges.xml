@@ -52,6 +52,16 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][NEWLINE]Study their maps of nearby territory and barbarians.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_GOODY_MAP" />
+		<Row Tag="TXT_KEY_GOODY_MAP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][NEWLINE]Vous avez découvert une carte des environs, découvre l'activité babare!</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_GOODY_CHOOSE_MAP" />
+		<Row Tag="TXT_KEY_GOODY_CHOOSE_MAP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][NEWLINE]Etude des cartes des territoires adjacents et de l'activité barbare.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Culture Ruins delayed to turn 12 in DLL (ID: NQMP_1_GJS) -->
 	

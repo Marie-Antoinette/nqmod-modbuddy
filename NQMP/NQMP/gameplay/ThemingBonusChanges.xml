@@ -33,6 +33,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are all filled with Writings from different Eras.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP" />
+		<Row Tag="TXT_KEY_OXFORD_UNIVERSITY_THEMING_BONUS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Pour optimiser les bonus, assurez-vous que les emplacements des Chefs-d'oeuvre sont occupés par des oeuvres créées à des Eres différentes.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- HERMITAGE -->
@@ -66,6 +72,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are all filled with Art from different Eras.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_HERMITAGE_THEMING_BONUS_HELP" />
+		<Row Tag="TXT_KEY_HERMITAGE_THEMING_BONUS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Pour optimiser les bonus, assurez-vous que les emplacements des Chefs-d'oeuvre sont occupés par des oeuvres créées à des Eres différentes.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- GREAT LIBRARY -->
@@ -99,6 +111,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are all filled with Writings from different Eras.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP" />
+		<Row Tag="TXT_KEY_GREAT_LIBRARY_THEMING_BONUS_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Pour optimiser les bonus, assurez-vous que les emplacements des Chefs-d'oeuvre sont occupés par des oeuvres créées à des Eres différentes.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- LOUVRE -->
@@ -132,6 +150,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]To maximize your bonus, make sure the Great Work Slots are filled with 2 Great Works of Art and 2 Artifacts with all 4 being from different Eras.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP" />
+		<Row Tag="TXT_KEY_BUILDING_STONE_WORKS_HELP">
+			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Pour optimiser les bonus, assurez-vous que les emplacements des Chefs-d'oeuvre sont occupés par 2 oeuvres et 2 Artefacts provenant tous d'Eres différentes.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 </GameData>

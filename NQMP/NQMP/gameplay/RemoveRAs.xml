@@ -33,5 +33,11 @@
 			<Text>[NEWLINE][NEWLINE](RU_RU text) Research Agreements are disabled in NQ games.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_NO_TECH" />
+		<Row Tag="TXT_KEY_DIPLO_RESCH_AGREEMENT_NO_TECH">
+			<Text>[NEWLINE][NEWLINE](NQ) Les accords de Recherche sont désactivés dans les jeux NQ.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

@@ -41,6 +41,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Unique Assyrian Library replacement. +1 [ICON_RESEARCH] Science for every 2 [ICON_CITIZEN] Citizens in this City and provides 1 [ICON_GREAT_PEOPLE] Great Person Point (GPP) towards a Great Writer. Also has a slot for a Great Work of Writing which, when filled, gives 15 extra XP to trained Units.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP" />
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Bâtiment exclusif aux Assyriens remplaçant la bibliothèque. [ICON_RESEARCH] Science +1 tous les 2 [ICON_CITIZEN] citoyens dans la ville. Fournit 1 point supplémentaire pour l'apparition d'un Ecrivain Illustre. Possède également un emplacement pour chef-d'oeuvre littéraire qui, une fois rempli, fournit de l'expérience supplémentaire aux unités formées +15 points Exp.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 	<!-- TXT_KEY_BUILDING_ROYAL_LIBRARY_STRATEGY -->
 	<Language_en_US>
@@ -67,5 +73,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]In addition to the [ICON_RESEARCH] Science output of the Library it replaces, the Royal Library also provides 1 [ICON_GREAT_PEOPLE] Great Person Point (GPP) towards a Great Writer and has a Great Work of Writing slot. Once filled with a Great Work, it provides 15 extra XP to Units trained in this city, so place a Great Work here as soon as possible for the maximum benefit. Only the Assyrians may build it.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_STRATEGY" />
+		<Row Tag="TXT_KEY_BUILDING_ROYAL_LIBRARY_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]La Bibliothèque Royale fournit [ICON_RESEARCH] Science +1 tous les 2 [ICON_CITIZEN] citoyens dans la ville. Fournit 1 point supplémentaire pour l'apparition d'un Ecrivain Illustre. Possède également un emplacement pour chef-d'oeuvre littéraire qui, une fois rempli, fournit de l'expérience supplémentaire aux unités formées +15 points Exp. Placez donc un chef-d'oeuvre dès que possible pour en tirer le meilleur profit. Bâtiment exclusif aux Assyriens.</Text>
+ 		</Row>
+	</Language_FR_FR>
 
 </GameData>

@@ -85,5 +85,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Whenever a Guild or a World Wonder with Great Work slots is built in the Capital, gain one free cultural Great Person of the matching type.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE" />
+		<Row Tag="TXT_KEY_TRAIT_ENHANCED_CULTURE">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Lorsque une Guilde ou une Merveille est construite dans la Capitale, un Personnage Illustre du même type culturel que les emplacements de spécialistes débloqués par la construction apparaît.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

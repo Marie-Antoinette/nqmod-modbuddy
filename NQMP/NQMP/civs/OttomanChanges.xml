@@ -36,6 +36,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Millets</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT" />
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Millets</Text>
+		</Row>
+	</Language_FR_FR>
 	
 	<Language_en_US>
 		<Delete Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS" />
@@ -61,5 +67,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Each city gets +1 [ICON_HAPPINESS_1] Happiness for each World Religion with at least 1 follower in that city.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS" />
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Millets[ENDCOLOR] Chaque ville reçoit [ICON_HAPPINESS_1] Bonheur +1 pour chaque religion mondiale ayant au moins 1 adepte dans la ville.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

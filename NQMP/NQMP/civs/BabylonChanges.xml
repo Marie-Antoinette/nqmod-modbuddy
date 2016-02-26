@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Receive free Great Scientist when you discover Philosophy. Earn Great Scientists 50% faster.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TRAIT_INGENIOUS" />
+		<Row Tag="TXT_KEY_TRAIT_INGENIOUS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Un savant illustre gratuit apparaît lorsque vous découvrez la Philosophie. Vous obtenez des savants illustres 50% plus rapidement.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

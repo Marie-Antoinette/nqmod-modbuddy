@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]+1 [ICON_RESEARCH] science for all specialists and +2 [ICON_RESEARCH] science for all Great Person tile improvements. Receive a tech boost each time a scientific building/Wonder is built in the Korean capital.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL" />
+		<Row Tag="TXT_KEY_TRAIT_SCHOLARS_JADE_HALL">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Érudits du Hall de Jade[ENDCOLOR] Bonus de [ICON_RESEARCH] science de 2 pour les aménagements de case des personnages illustres. Permet une avance technologique chaque fois qu'un bâtiment/une merveille est construit dans la capitale coréenne.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 </GameData>

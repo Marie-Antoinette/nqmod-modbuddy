@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Upon defeating a Barbarian unit inside an encampment, earn 25 [ICON_GOLD] Gold and they join your side. Pay 25% less for land unit maintenance.</Text>
 		</Row>
 	</Language_RU_RU>
+<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS" />
+		<Row Tag="TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Lorsque vous éliminez une unité barbare à l'intérieur d'un campement vous gagnez Or +25 et l'unité barabare rejoint vos rangs. Le coût d'entretien d'une unité terrestre diminue de 25%.</Text>
+		</Row>
+</Language_FR_FR>
 
 </GameData>

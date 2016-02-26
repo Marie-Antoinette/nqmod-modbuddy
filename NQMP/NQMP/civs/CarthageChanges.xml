@@ -26,6 +26,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]All coastal Cities get a free Harbor. Units may cross mountains, taking 50 HP damage if they end a turn on a mountain.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE" />
+		<Row Tag="TXT_KEY_TRAIT_PHOENICIAN_HERITAGE">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Héritage phénicien. Toutes les villes côtières reçoivent un port gratuit. Les unités peuvent traverser les montagnes, mais perdent 50 PV si elles terminent le tour sur une montagne.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 </GameData>

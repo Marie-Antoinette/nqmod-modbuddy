@@ -33,5 +33,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Urbanization[ENDCOLOR][NEWLINE]+1 [ICON_HAPPINESS_1] Local Happiness from every Granary, Water Mill, Hospital, and Medical Lab.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_URBANIZATION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_URBANIZATION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Urbanisation[ENDCOLOR][NEWLINE][ICON_HAPPINESS_1] Bonheur Local +1 pour chaque Grenier, Moulin à eau, Hôpital et Laboratoire Médical.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

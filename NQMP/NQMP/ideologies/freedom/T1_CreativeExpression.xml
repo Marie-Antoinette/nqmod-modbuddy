@@ -37,5 +37,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Creative Expression[ENDCOLOR][NEWLINE]+2 [ICON_CULTURE] Culture and +2 [ICON_TOURISM] Tourism from each Great Work.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_CREATIVE_EXPRESSION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Expression Creative[ENDCOLOR][NEWLINE]chaque Chef-d'oeuvre Fournit +2 [ICON_CULTURE] Culture and +2 [ICON_TOURISM] Tourisme.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

@@ -45,6 +45,15 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][NEWLINE]All cities gain +5% [ICON_GOLD] Gold for each Trade Route your civilization has with a City-State.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_GOLDMOD_YIELD_T1_ECONOMIC_UNION">
+			<Text>[NEWLINE][COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_BULLET]Taux pour Union Economique: {1_Num}%</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_POLICY_ECONOMIC_UNION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_ECONOMIC_UNION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][NEWLINE]Chaque ville reçoit +5% d'[ICON_GOLD] Or par route commerciale avec les Cités-Etat.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- T1 Economic Union building: Trade Depot -->
 	<BuildingClasses>
@@ -117,5 +126,16 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+5% [ICON_GOLD] Gold for each Trade Route your civilization has with a City-State.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_T1_ECONOMIC_UNION_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Chambre du Commerce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_T1_ECONOMIC_UNION_PEDIA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Une Chambre du commerce est automatiquement créée dans chaque après avoir adopté Egalité - Union Economique.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_T1_ECONOMIC_UNION_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+5% [ICON_GOLD] Gold for each Trade Route your civilization has with a City-State.</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

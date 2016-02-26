@@ -73,6 +73,17 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides +1 Spy and doubles coup chance and influence change from coups.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_T1_COVERT_ACTION_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Bureau Actions spéciales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_T1_COVERT_ACTION_PEDIA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Un Bureau Actions spéciales est automatiquement construit dans chaque ville après avoir adopté l'idéologie Egalité - Opération Secrète.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_T1_COVERT_ACTION_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Fournit +1 Espion et double les chances de coup d'état et leur influence.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Covert Action tooltip -->
 	<Language_en_US>
@@ -99,4 +110,10 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR][COLOR_POSITIVE_TEXT]Covert Action[ENDCOLOR][NEWLINE]Chance of rigging election in City-States and influence change from doing so doubled. Gain 1 additional Spy.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_POLICY_COVERT_ACTION_HELP" />
+		<Row Tag="TXT_KEY_POLICY_COVERT_ACTION_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Opération Secrète[ENDCOLOR][NEWLINE]Les Chances de truquer les élections des Cités Etat et l'influence gagnée double. Un Espion supplémentaire.</Text>
+		</Row>
+	</Language_FR_FR>
 </GameData>

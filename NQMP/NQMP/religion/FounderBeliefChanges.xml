@@ -46,6 +46,16 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_HAPPINESS_1] Global Happiness for every 8 followers of this religion in foreign cities</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_PEACE_LOVING_SHORT" />
+		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Baptêmes</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_BELIEF_PEACE_LOVING" />
+		<Row Tag="TXT_KEY_BELIEF_PEACE_LOVING">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_HAPPINESS_1] Bonheur Global +1 par groupe de 8 adeptes dans les villes des autres civilisations</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 </GameData>

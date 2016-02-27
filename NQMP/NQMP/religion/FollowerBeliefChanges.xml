@@ -92,6 +92,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Ampitheaters and Opera Houses provide +2 [ICON_PEACE] Faith and +1 [ICON_CULTURE] Culture</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA" />
+		<Row Tag="TXT_KEY_BELIEF_LITURGICAL_DRAMA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Ampithéâtres et les Opéras fournissent [ICON_PEACE] Foi +2 et [ICON_CULTURE] Culture +1</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Pagodas: Now provide +2 Food, +2 Faith, +1 Culture, +1 Happiness (instead of +2 Faith, +2 Culture, +2 Happines) -->
@@ -136,6 +142,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Use [ICON_PEACE] Faith to purchase Pagodas (+2 [ICON_FOOD] Food, +2 [ICON_PEACE] Faith, +1 [ICON_CULTURE] Culture, +1 [ICON_HAPPINESS_1] Happiness)</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_PAGODAS" />
+		<Row Tag="TXT_KEY_BELIEF_PAGODAS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Utiliser la [ICON_PEACE] Foi pour acheter des Pagodes ([ICON_FOOD] Nourriture +2, [ICON_PEACE] Foi +2, [ICON_CULTURE] Culture +1, [ICON_HAPPINESS_1] Bonheur +1)</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Religious Center: Now provides +1 Happiness (down from +2) but also an additional +1 Production and +1 Gold. -->
@@ -183,6 +195,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Temples provide +1 [ICON_HAPPINESS_1] Happiness, +1 [ICON_PRODUCTION] Production, and +1 Gold [ICON_GOLD] in cities with 5 followers</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER" />
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_CENTER">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Temples fournissent [ICON_HAPPINESS_1] Bonheur +1, [ICON_PRODUCTION] Production +1 et [ICON_GOLD] Or +1 dans les villes ayant 5 adeptes</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Swords Into Plowshares: Now provides +1 Food and +25% Growth without a Peace requirement (instead of just +15% Growth while at Peace). -->
@@ -223,5 +241,11 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_FOOD] Food and 25% faster [ICON_FOOD] Growth Rate for all cities</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES" />
+		<Row Tag="TXT_KEY_BELIEF_SWORD_PLOWSHARES">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_FOOD] Nourriture +1 et croissance[ICON_FOOD] 25% plus rapide pour toutes les villes</Text>
+		</Row>
+	</Language_FR_FR>
 
 </GameData>

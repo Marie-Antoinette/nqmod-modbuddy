@@ -182,6 +182,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Rationalism. +2 [ICON_RESEARCH] Science on all Luxury resource tiles worked by the city, and a Great Scientist appears.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP" />
+		<Row Tag="TXT_KEY_WONDER_PORCELAIN_TOWER_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Doctrine Rationalisme nécessaire pour être construit. [ICON_RESEARCH] Science +2 pour chaque ressource de luxe exploitée par la ville, un Scientifique Illustre apparaît.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 
 </GameData>

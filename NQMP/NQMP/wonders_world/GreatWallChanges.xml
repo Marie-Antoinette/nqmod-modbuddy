@@ -33,6 +33,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides a Watch Tower for free in all cities. Also provides Walls for free in the city in which it is built.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_GREAT_WALL_HELP" />
+		<Row Tag="TXT_KEY_WONDER_GREAT_WALL_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR] Fournit une Tour de Guet gratuite dans chaque ville. Fournit des Remparts gratuits dans la ville de construction.</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 	<!-- Great Wall Watch Tower -->
 	<BuildingClasses>
@@ -117,5 +124,20 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Watch Towers increase a city's Defense Strength by 5 and Hit Points by 50.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLORTour de Guet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER_DESC">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Tour de Guet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER_PEDIA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]C'est une des innombrables Tour de Guet construites le long de la Grande Muraille.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_WATCH_TOWER_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Tours de Guet augmentent la puissance de défense d'une ville de 5 et sa puissance de combat de 50.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 </GameData>

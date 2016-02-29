@@ -39,5 +39,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Liberty. Tile improvement construction speed increased by 20% and two Workers appear near the City.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_CHICHEN_ITZA_HELP" />
+		<Row Tag="TXT_KEY_WONDER_CHICHEN_ITZA_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Doctrine Liberté nécessaire pour être construit. Vitesse des aménagements des cases par les ouvriers +20% et deux ouvriers apparaissent près de la ville.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 	
 </GameData>

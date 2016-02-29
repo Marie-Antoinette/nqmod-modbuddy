@@ -38,5 +38,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Piety. [ICON_CULTURE] Culture and [ICON_GOLD] Gold costs of acquiring new tiles reduced by 25% in every city. Grants 150 Faith (on Standard Speed) when built.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_STONEHENGE_HELP" />
+		<Row Tag="TXT_KEY_WONDER_STONEHENGE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Doctrine Piété nécessaire. Coût en [ICON_CULTURE] Culture et [ICON_GOLD] Or pour l'achat de nouvelles cases reduit de 25% dans chaque ville. Alloue +150 Foi (jeu en vitesse standard) à la construction.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 </GameData>

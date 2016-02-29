@@ -39,5 +39,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides a free University in the city in which it is built.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_ANGKOR_WAT_HELP" />
+		<Row Tag="TXT_KEY_WONDER_ANGKOR_WAT_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Fournit une Université gratuite dans la vile de construction.</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 </GameData>

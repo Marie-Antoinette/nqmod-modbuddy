@@ -49,5 +49,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides a free Recycling Center in the city in which it is built. +200% [ICON_PRODUCTION] Production when building Spaceship Parts.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_HUBBLE_HELP" />
+		<Row Tag="TXT_KEY_WONDER_HUBBLE_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Fournit un Centre de Recyclage gratuit dans la ville de construction. [ICON_PRODUCTION] Production +200% pour construire les éléments du vaisseau spatial.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 	
 </GameData>

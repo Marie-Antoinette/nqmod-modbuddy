@@ -32,5 +32,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Requires Commerce. Cost of [ICON_GOLD] Gold purchasing in all cities reduced by 12%.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_WONDER_BIG_BEN_HELP" />
+		<Row Tag="TXT_KEY_WONDER_BIG_BEN_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Necéssite la Doctrine Commerce. Le coût des achats en [ICON_GOLD] Or est réduit de 12%.</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 </GameData>

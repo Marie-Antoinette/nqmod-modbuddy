@@ -42,12 +42,6 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Your spies exert religious pressure on the cities they occupy and +1 [ICON_RESEARCH] Science for every 3 followers of this religion in other civilizations.</Text>
 		</Row>
 	</Language_RU_RU>
-	<Language_FR_FR>
-		<Delete Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT" />
-		<Row Tag="TXT_KEY_BELIEF_UNDERGROUND_SECT">
-			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les espions exercent une pression religieuse dans les villes qu'ils occupent et vous gagnez +1 [ICON_RESEARCH] Science par groupe de 3 adeptes dans les villes des autres civilisations.</Text>
-		</Row>
-	</Language_FR_FR>
 
 	
 	<!-- Unity of the Prophets: Now also provides +6 Faith from Holy Sites. -->
@@ -83,12 +77,6 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Inquisitors and Prophets reduce this religion's presence by half (instead of eliminating it) and Holy Sites provide +6 [ICON_PEACE] Faith.</Text>
 		</Row>
 	</Language_RU_RU>
-	<Language_FR_FR>
-		<Delete Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS" />
-		<Row Tag="TXT_KEY_BELIEF_UNITY_OF_PROPHETS">
-			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Inquisiteurs et Prophètes réduisent le nombre d'adeptes de cette religion de moitié (au lieu de l'éliminer), les Lieux Saints fournissent [ICON_PEACE] Foi +6.</Text>
-		</Row>
-	</Language_FR_FR>
 
 	<!-- *** ADD NEW REFORMATION BELIEFS *** -->
 	

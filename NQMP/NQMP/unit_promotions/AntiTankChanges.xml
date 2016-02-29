@@ -49,5 +49,16 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Bonus vs Tanks (200)</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_PROMOTION_ANTI_TANK" />
+		<Row Tag="TXT_KEY_PROMOTION_ANTI_TANK">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Bonus contre les Tanks (200)</Text>
+		</Row>
+		<Delete Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK" />
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ANTI_TANK">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Bonus contre les Tanks (200)</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 </GameData>

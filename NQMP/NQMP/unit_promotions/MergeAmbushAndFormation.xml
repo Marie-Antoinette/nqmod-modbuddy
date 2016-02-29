@@ -142,6 +142,20 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+33% [ICON_STRENGTH] Combat Strength VS [COLOR_POSITIVE_TEXT]Mounted[ENDCOLOR] and [COLOR_POSITIVE_TEXT]Armor[ENDCOLOR] units.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_1">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Embuscade I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_1_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+33% [ICON_STRENGTH] de Puissance de Combat contre [COLOR_POSITIVE_TEXT]Unités Montées[ENDCOLOR] et [COLOR_POSITIVE_TEXT]Unités Blindées[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_2">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Embuscade II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_AMBUSH_FORMATION_2_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+33% [ICON_STRENGTH] de puissance de Combat contre les [COLOR_POSITIVE_TEXT]Unités Montées[ENDCOLOR] et [COLOR_POSITIVE_TEXT]Unités Blindées[ENDCOLOR].</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Remove old Ambush & Formation promotions -->

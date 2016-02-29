@@ -39,5 +39,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Must have built a Market in all Cities. The cost goes up the more cities there are in the empire. Gain an additional trade route slot and +25% [ICON_GOLD] Gold in the city in which it is built. Trade routes other players make to a city with an East India Company will generate an extra 4 [ICON_GOLD] Gold for the city owner and the trade route owner gains an additional 2 [ICON_GOLD] Gold.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP" />
+		<Row Tag="TXT_KEY_BUILDING_NATIONAL_TREASURY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Un Marché doit être construit dans chaque ville. Le coût augment avec le nombre de villes dans l'Empire. Ajoute une route commerciale et +25% [ICON_GOLD] Or dans la ville de construction. Les routes commerciales en provenance des autres Empires ouvertes avec la ville qui a construit la Compagnie des Indes génèrent +4 [ICON_GOLD] Or pour la ville et chaque routes commerciales génèrent +2 [ICON_GOLD] Or pour leur propriétaires.</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 </GameData>

@@ -39,5 +39,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Provides an additional spy and levels up all your existing spies. Also provides a 15% reduction in enemy spy effectiveness. Must have a Constabulary in all cities.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_HELP" />
+		<Row Tag="TXT_KEY_BUILDING_INTELLIGENCE_AGENCY_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Fournit un espion supplémentaire et augmente le niveau d'expérience des espions déjà existants. Diminue de 15% l'éfficacité des espions ennemis. Une Gendarmerie doit être construite dans chaque ville de l'Empire.</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 </GameData>

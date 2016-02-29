@@ -35,6 +35,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Allows your Workers to [COLOR_POSITIVE_TEXT]Chop Jungle[ENDCOLOR], clearing the map tile so other improvements can be constructed. Also allows you to build the [COLOR_POSITIVE_TEXT]Spearman[ENDCOLOR], a military unit strong against mounted enemies.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP" />
+		<Row Tag="TXT_KEY_TECH_BRONZE_WORKING_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Permet de [COLOR_POSITIVE_TEXT]couper la Jungle[ENDCOLOR], pour l'aménagement de la case. Permet également de former des [COLOR_POSITIVE_TEXT]Lanciers[ENDCOLOR]. Unité de l'Antiquité particulièrement efficace contre les unités montées.</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- TXT_KEY_TECH_MINING_HELP -->
 	<Language_en_US>
@@ -61,5 +67,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Reveals [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]Iron[ENDCOLOR]. Allows Workers to construct [COLOR_POSITIVE_TEXT]Mines[ENDCOLOR] to increase the [ICON_PRODUCTION] Production of map tiles, and [COLOR_POSITIVE_TEXT]Chop Forests[ENDCOLOR], allowing the construction of other improvements.</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_TECH_MINING_HELP" />
+		<Row Tag="TXT_KEY_TECH_MINING_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ)[ENDCOLOR]Révèle le [ICON_RES_IRON] [COLOR_POSITIVE_TEXT]Fer[ENDCOLOR]. Permet l'aménagement [COLOR_POSITIVE_TEXT]Mines[ENDCOLOR] pour améliorer la[ICON_PRODUCTION] Production des cases, et de couper les[COLOR_POSITIVE_TEXT]Forêts[ENDCOLOR], permettant l'aménagement de la case.</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 </GameData>

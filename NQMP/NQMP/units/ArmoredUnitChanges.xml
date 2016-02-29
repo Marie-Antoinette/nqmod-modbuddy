@@ -77,5 +77,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+50% [ICON_STRENGTH] Combat Strength against [COLOR_POSITIVE_TEXT]Land Units[ENDCOLOR].</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_VS_LAND">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Bonus contre les Unités Terrestres (50)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ARMOR_VS_LAND_HELP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]+50% [ICON_STRENGTH] de Puissance de combat contre les [COLOR_POSITIVE_TEXT]Unités Terrestres[ENDCOLOR].</Text>
+		</Row>
+	</Language_FR_FR>
+	
 
 </GameData>

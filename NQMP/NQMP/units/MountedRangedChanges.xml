@@ -29,6 +29,12 @@
 			<Text>[COLOR_WARNING_TEXT](DE_DE text) [ENDCOLOR]Mounted Units</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_UNITCOMBAT_MOUNTED_RANGED">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Unités Montées</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 	<!-- Update all Mounted Ranged units to the new type -->
 	<Units>

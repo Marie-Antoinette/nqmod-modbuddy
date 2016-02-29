@@ -35,6 +35,13 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Shrines provide +1 [ICON_FOOD] Food and Temples provide +2 [ICON_FOOD] Food</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_FEED_WORLD" />
+		<Row Tag="TXT_KEY_BELIEF_FEED_WORLD">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Autels fournissent [ICON_FOOD] Nourriture +1 et les Temples [ICON_FOOD] Nourriture +2</Text>
+		</Row>
+	</Language_FR_FR>
+
 
 
 	<!-- Liturgical Drama: Amphitheaters and Opera Houses now provide +2 Faith and +2 Culture and Population requirement waived (up from +1 Faith at 3+ pop). -->

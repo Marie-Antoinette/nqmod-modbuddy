@@ -36,7 +36,7 @@
 	<Language_FR_FR>
 		<Delete Tag="TXT_KEY_TRAIT_INGENIOUS" />
 		<Row Tag="TXT_KEY_TRAIT_INGENIOUS">
-			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Un savant illustre gratuit apparaît lorsque vous découvrez la Philosophie. Vous obtenez des savants illustres 50% plus rapidement.</Text>
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Un savant illustre gratuit apparaît lorsque vous découvrez la Philosophie. Apparition des savants illustres 50% plus rapide.</Text>
 		</Row>
 	</Language_FR_FR>
 	

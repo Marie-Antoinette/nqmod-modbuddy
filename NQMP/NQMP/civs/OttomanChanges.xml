@@ -39,7 +39,7 @@
 	<Language_FR_FR>
 		<Delete Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT" />
 		<Row Tag="TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT">
-			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][COLOR_POSITIVE_TEXT]Millets</Text>
+			<Text>Millets</Text>
 		</Row>
 	</Language_FR_FR>
 	

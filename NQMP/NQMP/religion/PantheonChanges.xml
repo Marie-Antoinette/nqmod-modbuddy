@@ -45,6 +45,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_CULTURE] Culture from Shrines and +1 [ICON_PEACE] Faith from Monuments</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP" />
+		<Row Tag="TXT_KEY_BELIEF_ANCESTOR_WORSHIP">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Autels fournissent [ICON_CULTURE] Culture +1, les Monuments [ICON_PEACE] Foi +1</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Dance of the Aurora: Now works on all Tundra tiles (instead of just non-Forested Tundra tiles) -->
@@ -73,6 +79,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_PEACE] Faith from Tundra tiles</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_DANCE_AURORA" />
+		<Row Tag="TXT_KEY_BELIEF_DANCE_AURORA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_PEACE] Foi +1 par cases de Tundra</Text>
+		</Row>
+	</Language_FR_FR>
 
 	<!-- Fertility Rites: +20% Growth (up from +10%) and now also provides +1 Happiness in cities with Population 10+ -->
 	<Beliefs>
@@ -105,6 +117,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]20% faster [ICON_FOOD] Growth Rate (excess Food) in all cities and +1 [ICON_HAPPINESS_1] Happiness from cities with population of 10+</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_FERTILITY_RITES" />
+		<Row Tag="TXT_KEY_BELIEF_FERTILITY_RITES">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_FOOD]Croissance 20% plus rapide pour toutes les villes et [ICON_HAPPINESS_1] Bonheur +1 pour les villes ayant au moins 10 habitants.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- God of Craftsmen: +1 Production in each city at Population 2+ -->
@@ -144,6 +162,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_PRODUCTION] Production in each city with at least 2 [ICON_CITIZEN] Population</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN" />
+		<Row Tag="TXT_KEY_BELIEF_GOD_CRAFTSMEN">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_PRODUCTION] Production +1 dans chaque ville ayant au moins 2 [ICON_CITIZEN] habitants</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- God of the Sea: +1 Faith (as well as +1 Production) from Fishing Boats -->
@@ -179,6 +203,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_PRODUCTION] Production and +1 [ICON_PEACE] Faith from Fishing Boats</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_GOD_SEA" />
+		<Row Tag="TXT_KEY_BELIEF_GOD_SEA">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_PRODUCTION] Production +1 et [ICON_PEACE] Foi +1 pour chaque bateaux de pêche</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- God of War: Faith amount doubled, and now also provides +1 Production from Barracks -->
@@ -220,6 +250,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Barracks provide +1 [ICON_PRODUCTION] Production and gain [ICON_PEACE] Faith if you kill an enemy unit within 4 tiles of your city</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_GOD_WAR" />
+		<Row Tag="TXT_KEY_BELIEF_GOD_WAR">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Les Casernes fournissent [ICON_PRODUCTION] Production +1 et gain [ICON_PEACE] de Foi pour chaque unité détruite dans un rayon de 4 cases autour de la ville.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- God-King: Now also provides +1 Food and +1 Happiness from the Palace -->
@@ -262,6 +298,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Palace provides +1 each of [ICON_FOOD] Food, [ICON_CULTURE] Culture, [ICON_PEACE] Faith, [ICON_GOLD] Gold, [ICON_PRODUCTION] Production, [ICON_RESEARCH] Science, and [ICON_HAPPINESS_1] Happiness</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_GOD_KING" />
+		<Row Tag="TXT_KEY_BELIEF_GOD_KING">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Le Palais fournit +1 de [ICON_FOOD] Nourriture, [ICON_CULTURE] Culture, [ICON_PEACE] Foi, [ICON_GOLD] Or, [ICON_PRODUCTION] Production, [ICON_RESEARCH] Science et [ICON_HAPPINESS_1] Bonheur</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Goddess of Love: Population requirement reduced to 4+ (from 6+) -->
@@ -295,6 +337,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_HAPPINESS_1] Happiness from cities with population of 4+</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_GODDESS_LOVE" />
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_LOVE">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_HAPPINESS_1] Bonheur +1 dans les villes de 4 habitants et plus.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Goddess of Protection: Ranged combat strength +50% (up from +30%) and now also provides +1 Faith from Walls -->
@@ -336,6 +384,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Cities gain +50% [ICON_RANGE_STRENGTH] Ranged Combat Strength and Walls provide +1 [ICON_PEACE] Faith</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY" />
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_STRATEGY">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Puissance de combat des villes +50% [ICON_RANGE_STRENGTH] et [ICON_PEACE] Foi +1 grâce aux Remparts</Text>
+		</Row>
+	</Language_FR_FR>
 
 	
 	<!-- Goddess of the Hunt: Added +1 Faith from Camps -->
@@ -371,6 +425,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_FOOD] Food and +1 [ICON_PEACE] Faith from Camps</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_GODDESS_HUNT" />
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_HUNT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_FOOD] Nourriture +1 et[ICON_PEACE] Foi +1 pour les campements</Text>
+		</Row>
+	</Language_FR_FR>
 	
 	
 	<!-- Monument to the Gods: +20% production boost (up from +15%) -->
@@ -404,6 +464,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+20% [ICON_PRODUCTION] Production of Ancient/Classical/Medieval Wonders</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_MONUMENT_GODS" />
+		<Row Tag="TXT_KEY_BELIEF_MONUMENT_GODS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_PRODUCTION]Production +20% pour les Merveilles des Eres Antiquité/Classique/Moyen-Age.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Oral Tradition: +1 Food and +1 Culture from Plantations (Food added in additional to Culture) -->
@@ -439,6 +505,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture from Plantations</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_ORAL_TRADITION" />
+		<Row Tag="TXT_KEY_BELIEF_ORAL_TRADITION">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_FOOD] Nourriture +1 et [ICON_CULTURE] Culture +1 des Plantations</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Religious Settlements: +25% border growth (up from +15%) and now also provides +1 Food per city -->
@@ -479,6 +551,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_FOOD] Food and +25% faster border growth in each city</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS" />
+		<Row Tag="TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_FOOD] Nourriture +1 et expension des frontières +25% plus rapide pour chaque ville.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Sacred Waters: Now also provides +1 Production from Water Mills -->
@@ -514,6 +592,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_HAPPINESS_1] Happiness from cities on rivers and Watermills provide +1 [ICON_PRODUCTION] Production</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_SACRED_WATERS" />
+		<Row Tag="TXT_KEY_BELIEF_SACRED_WATERS">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_HAPPINESS_1] Bonheur +1 pour les villes sur une reivière et [ICON_PRODUCTION] Production +1 pour les Moulins à eau.</Text>
+		</Row>
+	</Language_FR_FR>
 
 
 	<!-- Stone Circles: Now also provides +1 Production from Quarries -->
@@ -549,6 +633,12 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]+1 [ICON_PRODUCTION] Production and +2 [ICON_PEACE] Faith from Quarries</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Delete Tag="TXT_KEY_BELIEF_STONE_CIRCLES" />
+		<Row Tag="TXT_KEY_BELIEF_STONE_CIRCLES">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_PRODUCTION] Production +1 et [ICON_PEACE] Foi +2  des Carrières.</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- *** ADD NEW PANTHEONS *** -->
@@ -608,6 +698,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Daughter of Autumn</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_DAUGHTER_AUTUMN">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR][ICON_PRODUCTION] Production +1 et[ICON_PEACE] Foi +1 des Plantations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_DAUGHTER_AUTUMN_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Daughter of Autumn</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Gifts of Wisdom: +1 Faith and +1 Science for each Cocoa -->
@@ -665,6 +763,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Gifts of Wisdom</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_GIFTS_WISDOM">
+			<Text>[ICON_PEACE] Foi +1 et [ICON_RESEARCH] Science +1 par source de Cacao.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GIFTS_WISDOM_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Don de la Sagesse</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Goddess of Weaving: +1 Culture and +1 Faith for each Silk and Cotton -->
@@ -734,6 +840,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Goddess of Weaving</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_WEAVING">
+			<Text>[ICON_CULTURE] Culture +1 et [ICON_PEACE] Foi +1 pour chaque source de Soie et Coton.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_GODDESS_WEAVING_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Déesse des Tisserands</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Nature's Blessing: +1 Faith from Forest Tiles -->
@@ -785,6 +899,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Nature's Blessing</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_NATURES_BLESSING">
+			<Text>[ICON_PEACE] Foi +1 des cases de Forêts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_NATURES_BLESSING_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Bénédiction de la Nature</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Rite of Spring: +1 Culture from Deer and Sheep -->
@@ -842,6 +964,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Rite of Spring</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_RITE_SPRING">
+			<Text>[ICON_CULTURE] Culture +1 des sources de Cervidés et Moutons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RITE_SPRING_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Sacre du Printemps</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Ritualistic Tattoos: +2 Culture for each Dyes -->
@@ -893,6 +1023,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Ritualistic Tattoos</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_RITUAL_TATTOOS">
+			<Text>[ICON_CULTURE] Culture +2 pour chaque source de Teinture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_RITUAL_TATTOOS_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Tatouages Rituels</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Spirit Animals: +1 Faith for each Horse, Deer, Ivory, Fur, and Bison -->
@@ -968,6 +1106,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Spirit Animals</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_SPIRIT_ANIMALS">
+			<Text>[ICON_PEACE] Foi +1 pour chaque source de Chevaux, Cervidés, Ivoire, Fourrures et Bisons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_SPIRIT_ANIMALS_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Esprit des Animaux</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Voodoo Traditions: +1 Culture and +1 Faith from Sugar and Spice -->
@@ -1037,6 +1183,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Voodoo Traditions</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_VOODOO_TRADITIONS">
+			<Text>[ICON_CULTURE] Culture +1 et [ICON_PEACE] Foi +1 pour chaque source de Sucre et d'Epice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_VOODOO_TRADITIONS_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Traditions Voodoo</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 	<!-- Wayshrines: +1 Faith and +1 Gold for each city connection -->
@@ -1092,6 +1246,14 @@
 			<Text>[COLOR_WARNING_TEXT](RU_RU text) [ENDCOLOR]Wayshrines</Text>
 		</Row>
 	</Language_RU_RU>
+	<Language_FR_FR>
+		<Row Tag="TXT_KEY_BELIEF_WAYSHRINES">
+			<Text>[ICON_PEACE] Foi +1 et [ICON_GOLD] Or +1 dans les villes avec une [ICON_CONNECTED] Connexion Urbaine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BELIEF_WAYSHRINES_SHORT">
+			<Text>[COLOR_WARNING_TEXT](NQ) [ENDCOLOR]Prossessions Rituelles</Text>
+		</Row>
+	</Language_FR_FR>
 	
 
 </GameData>
